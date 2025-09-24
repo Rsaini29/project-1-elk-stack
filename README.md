@@ -6,7 +6,7 @@ The files in this repository were used to configure the network depicted below.
 ![Network Diagram](https://github.com/Rsaini29/Azure_Project/blob/main/Images/Network_Diagram.png)
 
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Azure_Project file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of this project file may be used to install only certain pieces of it, such as Filebeat.
 
 [Filebeat Playbook](https://github.com/Rsaini29/Azure_Project/blob/main/Images/filebeat_playbook%20yml_file.rtf)
 
